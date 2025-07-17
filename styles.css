@@ -1,0 +1,19 @@
+.hplist {
+    color: rgb(12, 117, 54);
+    background-color: #FFE4C4; 
+    font-family: Georgia, serif;
+}
+
+h2 {
+    background-color: #FFE4C4;
+    font-family: Verdana, fantasy;
+    margin: 3px;
+    font-family: "Brush Script MT", Monospace;
+}
+
+h3 {
+    color:rgb(12, 117, 54);
+    background-color:#FFE4C4;
+    display: inline-block;
+    font-family: Tahoma, cursive;
+}
